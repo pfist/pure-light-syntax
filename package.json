@@ -1,0 +1,20 @@
+{
+  "name": "pure-light-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A vibrant syntax theme for Atom.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "pure",
+    "colorful",
+    "light",
+    "vivid",
+    "vibrant"
+  ],
+  "repository": "https://github.com/polymoon/pure-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
