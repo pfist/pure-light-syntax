@@ -1,5 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
-# Use LFS for images
-*.png filter=lfs diff=lfs merge=lfs -text
